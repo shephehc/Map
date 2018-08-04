@@ -1,0 +1,73 @@
+{
+	"type" : "FeatureCollection",
+	"features" : [
+	{
+			"type" : "Feature",
+			"geometry": {
+			"type": "Point",
+			"coordinates": [-71.27324, 41.49078]
+			},
+			"properties": {
+			"name": "Point 1",
+			"clues": "<ul><li> I lived here and studied here for four years</li><li>It overlooks the Atlantic Ocean</li><li>In Rhode Island</li></ul>",
+			"icon": "shield.png",
+			"answerLink": "https://www.stgeorges.edu/index.cfm"
+			}
+	},
+	
+	{
+			"type" : "Feature",
+			"geometry": {
+			"type": "Point",
+			"coordinates": [-71.3082266, 41.4827505]
+			},
+			"properties": {
+			"name": "Point 2",
+			"clues": "<ul><li> Where I played tennis throughout High School</li><li>Home to a professional tennis tournament every July</li><li>Has grass courts and a stadium! </li></ul>",
+			"icon": "ball.png",
+			"answerLink": "https://www.tennisfame.com/"
+			}
+	},
+
+	{
+			"type" : "Feature",
+			"geometry": {
+			 "type": "Point",
+			"coordinates": [-71.2849847, 41.4923409]
+			},
+			"properties": {
+			"name": "Point 3",
+			"clues": "<ul><li> The best place to eat breakfast in Newport</li><li>5 minute walk from the beach</li><li>super busy, there is always a wait</li></ul>",
+			"icon": "pancake.png",
+			"answerLink": "http://www.atlanticgrille.com/"
+					}
+			},
+
+	{
+			"type" : "Feature",
+			"geometry": {
+			"type": "Point",
+			"coordinates": [-71.3379866, 41.4791141]
+			},
+			"properties": {
+			"name": "Point 4",
+			"clues": "<ul><li> Historic Fort in Newport</li><li>Port of the Volvo Ocean Race</li><li>Extremely popular spot in Newport</li></ul>",
+			"icon": "boat.png",
+			"answerLink": "http://fortadams.org/"
+			}
+	},
+			{
+			"type" : "Feature",
+			"geometry": {
+			"type": "Point",
+			"coordinates": [-71.3345937, 41.4553743]
+		 },
+			"properties": {
+			"name": "Point 5",
+			"clues": "<ul><li> Road along the Atlantic</li><li>Very popular among the tourists</li><li>Beautiful in the summer</li></ul>",
+			"icon": "wave.png",
+			"answerLink": "http://oceandrivenewport.com/"
+			}
+	}
+	]
+}
